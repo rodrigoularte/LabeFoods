@@ -31,6 +31,7 @@ O LabeFoods é um projeto Mobile First com o intuito de ser uma plataforma de de
    * [Concepção do Projeto](#concepção-do-projeto)
    * [Link para Acessar](#link-para-acessar)
    * [Rodando o Projeto](#rodando-o-projeto)
+   * [Algumas Telas](#algumas-telas)
 <!--te-->
 
 ---
@@ -63,7 +64,18 @@ O LabeFoods é um projeto Mobile First com o intuito de ser uma plataforma de de
 
 ## 🔗Link para Acessar
 
-Acesse (aqui)[https://labefoods-rodrigoularte.surge.sh/]
+Acesse [aqui](https://labefoods-rodrigoularte.surge.sh/)
+
+---
+
+## 🖼Algumas Telas
+
+![Captura da Web_22-8-2022_144527_labefoods-rodrigoularte surge sh](https://user-images.githubusercontent.com/88721328/185987787-882a5120-50ed-452b-a2a7-d4c329618511.jpeg)
+![Captura da Web_22-8-2022_144554_labefoods-rodrigoularte surge sh](https://user-images.githubusercontent.com/88721328/185987807-1d7651eb-074d-4408-9a60-952519dda52f.jpeg)
+![Captura de tela 2022-08-22 144859](https://user-images.githubusercontent.com/88721328/185987836-4f023099-09ed-4be2-b398-6808b7698635.png)
+![Captura de tela 2022-08-22 144929](https://user-images.githubusercontent.com/88721328/185987847-f40cc6ee-2130-4840-94d4-2dd7a48ab6a8.png)
+![Captura de tela 2022-08-22 145303](https://user-images.githubusercontent.com/88721328/185987860-136662b1-1a51-49cf-abd9-34ed0cf6b8be.png)
+![Captura de tela 2022-08-22 145351](https://user-images.githubusercontent.com/88721328/185987866-11c6d5b9-95ca-439d-87df-332cc3368272.png)
 
 ---
 
